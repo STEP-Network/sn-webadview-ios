@@ -97,11 +97,3 @@ public class SNWebAdSDK {
         }
     }
 }
-
-// MARK: - Debug Helper
-private func debugPrint(_ items: Any..., separator: String = " ", terminator: String = "\n") {
-    let isDebugEnabled = UserDefaults.standard.bool(forKey: "isDebugEnabled")
-    if isDebugEnabled {
-        print(items, separator: separator, terminator: terminator)
-    }
-}

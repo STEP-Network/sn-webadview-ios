@@ -26,7 +26,7 @@ public class SNDidomiWrapper {
         }
         
         let hasConsent = Didomi.shared.isConsentRequired() ? 
-            Didomi.shared.getUserConsentStatus().hasConsentForAll() : true
+            !Didomi.shared.shouldUserStatusBeCollected() : true
         
         debugPrint("[SNDidomiWrapper] Consent status: \(hasConsent)")
         return hasConsent
@@ -74,13 +74,13 @@ public class SNDidomiWrapper {
             return ["error": "Didomi not initialized"]
         }
         
-        let status = Didomi.shared.getUserConsentStatus()
+        let status = Didomi.shared.getCurrentUserStatus()
         
         return [
-            "hasConsentForAll": status.hasConsentForAll(),
-            "hasConsentForPurposes": status.purposes.consent.enabled.count > 0,
-            "hasConsentForVendors": status.vendors.consent.enabled.count > 0,
-            "consentString": Didomi.shared.getUserConsentStatusForVendor(vendorId: "") ?? ""
+            "hasConsentForAll": !Didomi.shared.shouldUserStatusBeCollected(),
+            "hasConsentForPurposes": status.purposes.count > 0,
+            "hasConsentForVendors": status.vendors.count > 0,
+            "consentString": Didomi.shared.getJavaScriptForWebView()
         ]
     }
     
@@ -128,13 +128,5 @@ public class SNDidomiWrapper {
             
             Didomi.shared.addEventListener(listener: eventListener)
         }
-    }
-}
-
-// MARK: - Debug Helper
-private func debugPrint(_ items: Any..., separator: String = " ", terminator: String = "\n") {
-    let isDebugEnabled = UserDefaults.standard.bool(forKey: "isDebugEnabled")
-    if isDebugEnabled {
-        print(items, separator: separator, terminator: terminator)
     }
 }
