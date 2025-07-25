@@ -1,0 +1,67 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Build SNWebAdView SDK",
+			"type": "shell",
+			"command": "swift",
+			"args": [
+				"build"
+			],
+			"group": "build",
+			"problemMatcher": [
+				"$swiftc"
+			],
+			"isBackground": false
+		},
+		{
+			"label": "Test SNWebAdView SDK",
+			"type": "shell",
+			"command": "swift",
+			"args": [
+				"test"
+			],
+			"group": "test",
+			"problemMatcher": [
+				"$swiftc"
+			],
+			"isBackground": false
+		},
+		{
+			"label": "Clean Build",
+			"type": "shell",
+			"command": "swift",
+			"args": [
+				"package",
+				"clean"
+			],
+			"group": "build",
+			"problemMatcher": [],
+			"isBackground": false
+		},
+		{
+			"label": "Update Dependencies",
+			"type": "shell",
+			"command": "swift",
+			"args": [
+				"package",
+				"update"
+			],
+			"group": "build",
+			"problemMatcher": [],
+			"isBackground": false
+		},
+		{
+			"label": "Resolve Dependencies",
+			"type": "shell",
+			"command": "swift",
+			"args": [
+				"package",
+				"resolve"
+			],
+			"group": "build",
+			"problemMatcher": [],
+			"isBackground": false
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+  "object" : {
+    "artifacts" : [
+      {
+        "kind" : "xcframework",
+        "packageRef" : {
+          "identity" : "didomi-ios-sdk-spm",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/didomi/didomi-ios-sdk-spm",
+          "name" : "Didomi"
+        },
+        "path" : "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/.build/artifacts/didomi-ios-sdk-spm/Didomi/Didomi.xcframework",
+        "source" : {
+          "checksum" : "00f331e4e2c8e557555415ee7d0669cc507a05de266035b3807be26f4f47db27",
+          "type" : "remote",
+          "url" : "https://sdk.didomi.io/ios/didomi-ios-sdk-1.99.0-xcframework.zip"
+        },
+        "targetName" : "Didomi"
+      }
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "didomi-ios-sdk-spm",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/didomi/didomi-ios-sdk-spm",
+          "name" : "Didomi"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "7b8d94a775e9e8a86332bb4641c8f53c67aa62dd",
+            "version" : "1.99.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "didomi-ios-sdk-spm"
+      }
+    ],
+    "prebuilts" : [
+
+    ]
+  },
+  "version" : 7
+}

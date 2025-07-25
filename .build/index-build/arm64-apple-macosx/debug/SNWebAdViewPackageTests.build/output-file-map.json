@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/.build/index-build/arm64-apple-macosx/debug/SNWebAdViewPackageTests.build/master.swiftdeps"
+  },
+  "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/.build/index-build/arm64-apple-macosx/debug/SNWebAdViewPackageTests.derived/runner.swift": {
+    "dependencies": "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/.build/index-build/arm64-apple-macosx/debug/SNWebAdViewPackageTests.build/runner.d",
+    "object": "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/.build/index-build/arm64-apple-macosx/debug/SNWebAdViewPackageTests.build/runner.swift.o",
+    "swiftmodule": "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/.build/index-build/arm64-apple-macosx/debug/SNWebAdViewPackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/.build/index-build/arm64-apple-macosx/debug/SNWebAdViewPackageTests.build/runner.swiftdeps"
+  }
+}

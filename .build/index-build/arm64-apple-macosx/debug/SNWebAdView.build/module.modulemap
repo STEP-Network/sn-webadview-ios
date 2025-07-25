@@ -1,0 +1,4 @@
+module SNWebAdView {
+    header "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/.build/index-build/arm64-apple-macosx/debug/SNWebAdView.build/SNWebAdView-Swift.h"
+    requires objc
+}

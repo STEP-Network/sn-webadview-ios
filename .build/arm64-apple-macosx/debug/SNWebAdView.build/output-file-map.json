@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/.build/arm64-apple-macosx/debug/SNWebAdView.build/master.swiftdeps"
+  },
+  "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/Sources/SNWebAdView/Configuration/SNWebAdSDK.swift": {
+    "dependencies": "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/.build/arm64-apple-macosx/debug/SNWebAdView.build/SNWebAdSDK.d",
+    "object": "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/.build/arm64-apple-macosx/debug/SNWebAdView.build/SNWebAdSDK.swift.o",
+    "swiftmodule": "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/.build/arm64-apple-macosx/debug/SNWebAdView.build/SNWebAdSDK~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/.build/arm64-apple-macosx/debug/SNWebAdView.build/SNWebAdSDK.swiftdeps"
+  },
+  "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/Sources/SNWebAdView/Consent/SNDidomiWrapper.swift": {
+    "dependencies": "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/.build/arm64-apple-macosx/debug/SNWebAdView.build/SNDidomiWrapper.d",
+    "object": "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/.build/arm64-apple-macosx/debug/SNWebAdView.build/SNDidomiWrapper.swift.o",
+    "swiftmodule": "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/.build/arm64-apple-macosx/debug/SNWebAdView.build/SNDidomiWrapper~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/.build/arm64-apple-macosx/debug/SNWebAdView.build/SNDidomiWrapper.swiftdeps"
+  },
+  "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/Sources/SNWebAdView/Core/SNWebAdView.swift": {
+    "dependencies": "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/.build/arm64-apple-macosx/debug/SNWebAdView.build/SNWebAdView.d",
+    "object": "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/.build/arm64-apple-macosx/debug/SNWebAdView.build/SNWebAdView.swift.o",
+    "swiftmodule": "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/.build/arm64-apple-macosx/debug/SNWebAdView.build/SNWebAdView~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/.build/arm64-apple-macosx/debug/SNWebAdView.build/SNWebAdView.swiftdeps"
+  },
+  "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/Sources/SNWebAdView/Debug/SNDebugSettings.swift": {
+    "dependencies": "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/.build/arm64-apple-macosx/debug/SNWebAdView.build/SNDebugSettings.d",
+    "object": "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/.build/arm64-apple-macosx/debug/SNWebAdView.build/SNDebugSettings.swift.o",
+    "swiftmodule": "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/.build/arm64-apple-macosx/debug/SNWebAdView.build/SNDebugSettings~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/.build/arm64-apple-macosx/debug/SNWebAdView.build/SNDebugSettings.swiftdeps"
+  },
+  "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/Sources/SNWebAdView/LazyLoading/SNLazyLoadingManager.swift": {
+    "dependencies": "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/.build/arm64-apple-macosx/debug/SNWebAdView.build/SNLazyLoadingManager.d",
+    "object": "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/.build/arm64-apple-macosx/debug/SNWebAdView.build/SNLazyLoadingManager.swift.o",
+    "swiftmodule": "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/.build/arm64-apple-macosx/debug/SNWebAdView.build/SNLazyLoadingManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/.build/arm64-apple-macosx/debug/SNWebAdView.build/SNLazyLoadingManager.swiftdeps"
+  }
+}

@@ -1,0 +1,150 @@
+STEP Network SDK License Agreement
+
+Copyright (c) 2024 STEP Network, Inc. All rights reserved.
+
+NOTICE: This software is proprietary to STEP Network, Inc. and is licensed only to 
+authorized publishers for integration with STEP Network's advertising platform.
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. DEFINITIONS
+
+"License" shall mean the terms and conditions for use, reproduction, and distribution 
+as defined by Sections 1 through 9 of this document.
+
+"Licensor" shall mean STEP Network, Inc.
+
+"Legal Entity" shall mean the union of the acting entity and all other entities that 
+control, are controlled by, or are under common control with that entity.
+
+"You" (or "Your") shall mean an individual or Legal Entity exercising permissions 
+granted by this License.
+
+"Software" shall mean the SNWebAdView iOS SDK and all related documentation, 
+source code, and materials provided by STEP Network.
+
+"Publisher" shall mean an entity that has entered into a written agreement with 
+STEP Network for advertising services.
+
+2. GRANT OF LICENSE
+
+Subject to the terms and conditions of this License and contingent upon Your status 
+as an authorized STEP Network Publisher, STEP Network hereby grants You a limited, 
+non-exclusive, non-transferable license to:
+
+a) Use the Software solely for the purpose of integrating STEP Network advertising 
+   services into Your mobile applications;
+b) Reproduce the Software as necessary for such integration;
+c) Prepare derivative works based upon the Software solely as necessary for 
+   integration with Your applications.
+
+3. RESTRICTIONS
+
+You may not:
+
+a) Use the Software for any purpose other than integration with STEP Network 
+   advertising services;
+b) Distribute, sublicense, or transfer the Software to any third party;
+c) Use the Software if You are not an authorized STEP Network Publisher;
+d) Remove or alter any copyright, trademark, or other proprietary notices;
+e) Reverse engineer, decompile, or disassemble the Software except as expressly 
+   permitted by applicable law;
+f) Use the Software in any manner that competes with STEP Network's business.
+
+4. PUBLISHER AGREEMENT REQUIREMENT
+
+Use of this Software is contingent upon and subject to Your separate written 
+agreement with STEP Network for advertising services ("Publisher Agreement"). 
+In the event of any conflict between this License and the Publisher Agreement, 
+the Publisher Agreement shall control.
+
+5. INTELLECTUAL PROPERTY
+
+STEP Network retains all right, title, and interest in and to the Software, 
+including all intellectual property rights therein. No rights are granted to You 
+hereunder other than as expressly set forth in this License.
+
+6. PRIVACY AND DATA PROTECTION
+
+You acknowledge that the Software may collect, process, and transmit data in 
+accordance with STEP Network's privacy policies and applicable data protection 
+laws. You agree to:
+
+a) Comply with all applicable privacy laws and regulations;
+b) Provide appropriate notices to end users regarding data collection and processing;
+c) Obtain necessary consents as required by applicable law;
+d) Implement the consent management features provided by the Software.
+
+7. DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A 
+PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL STEP NETWORK BE LIABLE 
+FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, 
+OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE 
+OR OTHER DEALINGS IN THE SOFTWARE.
+
+8. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL STEP NETWORK BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, 
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, 
+PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR 
+BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN 
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING 
+IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY 
+OF SUCH DAMAGE.
+
+9. TERMINATION
+
+This License shall terminate automatically upon:
+
+a) Termination of Your Publisher Agreement with STEP Network;
+b) Your breach of any term or condition of this License;
+c) Your cessation of status as an authorized STEP Network Publisher.
+
+Upon termination, You must immediately cease all use of the Software and destroy 
+all copies in Your possession or control.
+
+10. THIRD-PARTY DEPENDENCIES
+
+The Software may include or depend upon third-party software components, including 
+but not limited to the Didomi SDK. Such components are subject to their respective 
+license terms, and You agree to comply with all applicable third-party license 
+requirements.
+
+11. GOVERNING LAW
+
+This License shall be governed by and construed in accordance with the laws of 
+the State of Delaware, United States, without regard to conflict of law principles.
+
+12. ENTIRE AGREEMENT
+
+This License, together with Your Publisher Agreement with STEP Network, constitutes 
+the entire agreement between You and STEP Network regarding the Software and 
+supersedes all prior or contemporaneous understandings regarding such subject matter.
+
+13. CONTACT INFORMATION
+
+For questions regarding this License or to verify Your status as an authorized 
+Publisher, contact:
+
+STEP Network, Inc.
+Legal Department
+Email: legal@stepnetwork.com
+Website: https://www.stepnetwork.com
+
+---
+
+AUTHORIZED PUBLISHER VERIFICATION
+
+Use of this Software requires authorization from STEP Network. If You have not 
+entered into a Publisher Agreement with STEP Network, You are not authorized to 
+use this Software and must not download, install, or use it.
+
+To become an authorized Publisher, visit: https://www.stepnetwork.com/publishers
+
+---
+
+Copyright Notice: This software contains proprietary and confidential information 
+of STEP Network, Inc. Unauthorized use, reproduction, or distribution is strictly 
+prohibited and may result in civil and criminal penalties.

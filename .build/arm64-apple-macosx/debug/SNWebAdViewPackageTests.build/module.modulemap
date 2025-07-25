@@ -1,0 +1,4 @@
+module SNWebAdViewPackageTests {
+    header "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/.build/arm64-apple-macosx/debug/SNWebAdViewPackageTests.build/SNWebAdViewPackageTests-Swift.h"
+    requires objc
+}
