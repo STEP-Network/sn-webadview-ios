@@ -1,7 +1,7 @@
 framework module Didomi {
   umbrella header "Didomi.h"
-
   export *
+
   module * { export * }
 }
 

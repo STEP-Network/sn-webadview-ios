@@ -151,7 +151,7 @@ SNDebugSettings.shared.enableDebugMode()
 
 ## Dependencies
 
-- [Didomi SDK](https://github.com/didomi/swift-sdk) - For GDPR/CCPA consent management
+- [Didomi SDK v2.26.3](https://github.com/didomi/didomi-ios-sdk-spm) - For GDPR/CCPA consent management
 
 ## Documentation
 

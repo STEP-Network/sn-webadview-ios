@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/didomi/didomi-ios-sdk-spm",
         "state": {
           "branch": null,
-          "revision": "7b8d94a775e9e8a86332bb4641c8f53c67aa62dd",
-          "version": "1.99.0"
+          "revision": "0bafc71590030d10e4fd721965801b65793f9736",
+          "version": "2.26.3"
         }
       }
     ]

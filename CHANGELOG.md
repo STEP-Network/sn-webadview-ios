@@ -10,6 +10,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Initial SDK development and documentation
 
+## [1.0.1] - 2025-07-25
+
+### Updated
+- **Didomi SDK Dependency** - Upgraded to version 2.26.3 from 1.99.0
+- Binary framework now uses didomi-ios-sdk-2.26.3-xcframework.zip
+- Improved compatibility and latest consent management features
+
 ## [1.0.0] - 2024-01-15
 
 ### Added

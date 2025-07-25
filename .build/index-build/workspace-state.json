@@ -11,9 +11,9 @@
         },
         "path" : "/Users/jaspe/Documents/Xcode folders/SNWebAdView SDK/.build/index-build/artifacts/didomi-ios-sdk-spm/Didomi/Didomi.xcframework",
         "source" : {
-          "checksum" : "00f331e4e2c8e557555415ee7d0669cc507a05de266035b3807be26f4f47db27",
+          "checksum" : "e18beb89575010eb4d9e5f37dda5b2018c8845fcb6e8e81add4975008af7141a",
           "type" : "remote",
-          "url" : "https://sdk.didomi.io/ios/didomi-ios-sdk-1.99.0-xcframework.zip"
+          "url" : "https://sdk.didomi.io/ios/didomi-ios-sdk-2.26.3-xcframework.zip"
         },
         "targetName" : "Didomi"
       }
@@ -29,8 +29,8 @@
         },
         "state" : {
           "checkoutState" : {
-            "revision" : "7b8d94a775e9e8a86332bb4641c8f53c67aa62dd",
-            "version" : "1.99.0"
+            "revision" : "0bafc71590030d10e4fd721965801b65793f9736",
+            "version" : "2.26.3"
           },
           "name" : "sourceControlCheckout"
         },
