@@ -27,7 +27,7 @@ extension EnvironmentValues {
 
 // MARK: - Helper for Publishers
 extension Publisher {
-    func assignNoRetain<Root>(to keyPath: ReferenceWritableKeyPath<Root, Output>) -> (Root) -> AnyCancellable {
+    func assignNoRetain<Root: AnyObject>(to keyPath: ReferenceWritableKeyPath<Root, Output>) -> (Root) -> AnyCancellable {
         return { object in
             self.sink(receiveCompletion: { _ in },
                      receiveValue: { [weak object] value in
