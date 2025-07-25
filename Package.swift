@@ -16,7 +16,7 @@ let package = Package(
         .package(
             name: "Didomi",
             url: "https://github.com/didomi/didomi-ios-sdk-spm", 
-            from: "1.99.0"
+            from: "2.26.3"
         )
     ],
     targets: [
