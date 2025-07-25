@@ -38,13 +38,13 @@ Before integrating the SDK, coordinate with STEP Network to obtain:
 
 1. **In Xcode:**
    - File → Add Package Dependencies...
-   - Enter: `https://github.com/step-network/sn-webadview-ios`
+   - Enter: `https://github.com/STEP-Network/sn-webadview-ios`
    - Select version and add to your target
 
 2. **In Package.swift:**
    ```swift
    dependencies: [
-       .package(url: "https://github.com/step-network/sn-webadview-ios", from: "1.0.0")
+       .package(url: "https://github.com/STEP-Network/sn-webadview-ios", from: "1.0.0")
    ],
    targets: [
        .target(

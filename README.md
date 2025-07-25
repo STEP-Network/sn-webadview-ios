@@ -21,13 +21,13 @@ Add SNWebAdView to your project using Swift Package Manager:
 ```swift
 // Package.swift
 dependencies: [
-    .package(url: "https://github.com/step-network/sn-webadview-ios", from: "1.0.0")
+    .package(url: "https://github.com/STEP-Network/sn-webadview-ios", from: "1.0.0")
 ]
 ```
 
 Or in Xcode:
 1. File → Add Package Dependencies
-2. Enter: `https://github.com/step-network/sn-webadview-ios`
+2. Enter: `https://github.com/STEP-Network/sn-webadview-ios`
 3. Choose version and add to your target
 
 ### 2. Configuration
