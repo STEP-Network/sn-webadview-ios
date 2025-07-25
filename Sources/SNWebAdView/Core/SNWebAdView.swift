@@ -3,14 +3,6 @@ import WebKit
 import Combine
 import Didomi
 
-// MARK: - Debug Helper
-private func debugPrint(_ items: Any..., separator: String = " ", terminator: String = "\n") {
-    let isDebugEnabled = UserDefaults.standard.bool(forKey: "isDebugEnabled")
-    if isDebugEnabled {
-        print(items, separator: separator, terminator: terminator)
-    }
-}
-
 // MARK: - Ad Load State
 public enum AdLoadState: String, CaseIterable, Equatable, Identifiable {
     case idle = "idle"
